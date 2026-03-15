@@ -1,4 +1,4 @@
-# Hi there! I'm Shawon 👋 📊
+# Hi there! I'm Shawon 👋
 
 Welcome to my profile! I am a passionate **Data Analyst** and currently a student in the **HSC 2026 Batch**. I love playing with data and turning it into meaningful insights. 🚀
 
@@ -30,12 +30,12 @@ Welcome to my profile! I am a passionate **Data Analyst** and currently a studen
 ---
 
 ### 🔥 My Stats
-![Shawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
+![Shawon's GitHub stats](https://github.com/shawon-analyst)
 
 ---
 
 ### 🤝 Let's Connect
-- **LinkedIn:** [Tor LinkedIn Link Eikhane De] 🔗
+- **LinkedIn:** [https://www.linkedin.com/in/shawonanalyst/] 🔗
 - **Email:** [idris.shawon@gmail.com] 📧
 
 "Data is the new oil, and I am the refiner!" 💡✨
