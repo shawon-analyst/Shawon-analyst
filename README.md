@@ -1,4 +1,4 @@
-# Hi there! I'm ## Idris Ali Shawon 👋
+# Hi there! I'm Idris Ali Shawon 👋
 
 Welcome to my profile! I am a passionate **Data Analyst** and currently a student in the **HSC 2026 Batch**. I love playing with data and turning it into meaningful insights. 🚀
 
